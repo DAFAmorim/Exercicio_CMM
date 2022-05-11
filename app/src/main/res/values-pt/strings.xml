@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exercicio_CMM</string>
+    <string name="foto">Tirar foto</string>
+    <string name="video">Gravar vídeo</string>
+    <string name="stop_video">Parar vídeo</string>
+    <string name="video_sucess">"Gravação realizada com sucesso: "</string>
+    <string name="video_error">"Gravação de vídeo terminou com o erro: "</string>
+    <string name="start">Começar</string>
+    <string name="intro">A aplicação que te pode ajudar a provar a existência de presenças paranormais</string>
+    <string name="photo_error">"Erro ao tirar foto:   "</string>
+    <string name="photo_success">"Fotografia gravada com sucesso: "</string>
+    <string name="instructions">"Deixe o telemóvel numa  divisão fechada e sem luz com a app aberta. Caso se detecte alguma claridade a app tira uma foto, caso a temperatura ambiente varie mais de 2ºC um vídeo será iniciado. "</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Exercicio_CMM</string>
+    <string name="foto">Take picture</string>
+    <string name="video">Start Video</string>
+    <string name="stop_video">Stop video</string>
+    <string name="start">Start</string>
+    <string name="intro">The application that can help you prove the existence of paranormal presences</string>
+    <string name="video_error">"Video capture stop with error: "</string>
+    <string name="video_sucess">Video capture succeeded:</string>
+    <string name="photo_error">Photo capture failed:</string>
+    <string name="photo_success">Photo capture succeeded:</string>
+    <string name="instructions">Leave your cell phone in a closed and dark room with the app open. If any light is detected, the app takes a picture, if the ambient temperature varies by more than 2ºC, a video will be started.</string>
+</resources>
